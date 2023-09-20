@@ -1,0 +1,15 @@
+/*
+    1---2-----4
+    /   \     /
+    \    \   /
+    5      3
+
+    HOW TO SEARCH NODE IN GRAPH
+
+    HOW TO DECIDE TO SEACHING ALGORITH USE FOR SEACH ELEMENT
+
+    WHEN WE can USE BFS OR DFS ALGORORITH IN A GRAPH
+
+    GO TO NEXT VIDEO
+
+*/
